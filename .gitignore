@@ -1,0 +1,21 @@
+# General --------------------------------------------------------------
+
+pvt
+doc
+
+# R specific -----------------------------------------------------------
+
+# History files
+.Rhistory
+.Rapp.history
+
+# RStudio files
+.Rproj.user
+*.Rproj
+
+# cached Rmarkdown files
+*_cache
+
+# VScode ---------------------------------------------------------------
+
+.vscode

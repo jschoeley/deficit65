@@ -1,0 +1,36 @@
+# Global constants
+skeleton:
+  year: {start: 2000, end: 2030}
+  age: {start: 0, end: 100}
+  sex: {Male: 'Male', Female: 'Female'}
+  regions: [
+    'AT',
+    'BE',
+    'BG',
+    'CH',
+    'CZ',
+    'DE',
+    'DK',
+    'EE',
+    'ES',
+    'FI',
+    'FR',
+    #'GR', no STMF death counts prior to 2015
+    'HR',
+    'HU',
+    'IS',
+    'IT',
+    'LT',
+    'NL',
+    'NO',
+    'PL',
+    'PT',
+    'SE',
+    'SI',
+    'SK'
+]
+# figure specifications
+figspec:
+  dimensions: { width: 180 }
+  colors:
+    sex: { 'Male': '#004b87', 'Female': '#c60c30' }

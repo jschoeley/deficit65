@@ -1,0 +1,39 @@
+region_code_iso3166_2,region_code_iso3166_2_alpha3,region_code_iso3166_1,region_code_iso3166_1_alpha3,region_code_stmf,calendar_stmf,region_code_hmd,region_code_wpp,region_code_coverage,region_name_en,region_name_de,region_name_short,region_level,country_name,hemisphere,continent
+AT,AUT,AT,AUT,AUT,iso_week_date,AUT,40,Austria,Austria,Österreich,AUT,0,Austria,n,Europe
+AU,AUS,AU,AUS,AUS,gregorian,AUS,36,Australia,Australia,Australien,AUS,0,Australia,s,Oceania
+BE,BEL,BE,BEL,BEL,iso_week_date,BEL,56,Belgium,Belgium,Belgien,BEL,0,Belgium,n,Europe
+BG,BGR,BG,BGR,BGR,iso_week_date,BGR,100,Bulgaria,Bulgaria,Bulgarien,BGR,0,Bulgaria,n,Europe
+CA,CAN,CA,CAN,CAN,? mmwr_weeks,CAN,124,Canada,Canada,Kanada,CAN,0,Canada,n,North America
+CH,CHE,CH,CHE,CHE,iso_week_date,CHE,756,Switzerland,Switzerland,Schweiz,CHE,0,Switzerland,n,Europe
+CL,CHL,CL,CHL,CHL,iso_week_date,CHL,152,Chile,Chile,Chile,CHL,0,Chile,s,South America
+CZ,CZE,CZ,CZE,CZE,iso_week_date,CZE,203,Czechia,Czech Republic,Tschechien,CZE,0,Czech Republic,n,Europe
+DE,DEU,DE,DEU,DEUTNP,iso_week_date,DEUTNP,276,Germany,Germany,Deutschland,DEU,0,Germany,n,Europe
+DK,DNK,DK,DNK,DNK,iso_week_date,DNK,208,Denmark,Denmark,Dänemark,DNK,0,Denmark,n,Europe
+EE,EST,EE,EST,EST,iso_week_date,EST,233,Estonia,Estonia,Estland,EST,0,Estonia,n,Europe
+ES,ESP,ES,ESP,ESP,iso_week_date,ESP,724,Spain,Spain,Spanien,ESP,0,Spain,n,Europe
+FI,FIN,FI,FIN,FIN,iso_week_date,FIN,246,Finland,Finland,Finnland,FIN,0,Finland,n,Europe
+FR,FRA,FR,FRA,FRATNP,iso_week_date,FRATNP,250,France,France,Frankreich,FRA,0,France,n,Europe
+GB-EAW,GBR-EAW,GB,GBR,GBRTENW,iso_week_date,GBRTENW,.,England and Wales,England and Wales,England und Wales,EAW,1,Great Britain,n,Europe
+GB-NIR,GBR-NIR,GB,GBR,GBR_NIR,iso_week_date,GBR_NIR,.,Northern Ireland,Northern Ireland,Nordirland,NIR,1,Great Britain,n,Europe
+GB-SCT,GBR-SCT,GB,GBR,GBR_SCO,iso_week_date,GBR_SCO,.,Scotland,Scotland,Schottland,SCT,1,Great Britain,n,Europe
+GR,GRC,GR,GRC,GRC,iso_week_date,GRC,300,Greece,Greece,Griechenland,GRC,0,Greece,n,Europe
+HR,HRV,HR,HRV,HRV,iso_week_date,HRV,191,Croatia,Croatia,Kroatien,HRV,0,Croatia,n,Europe
+HU,HUN,HU,HUN,HUN,iso_week_date,HUN,348,Hungary,Hungary,Ungarn,HUN,0,Hungary,n,Europe
+IL,ISR,IL,ISR,ISR,iso_week_date,ISR,376,Israel,Israel,Israel,ISR,0,Israel,n,Asia
+IS,ISL,IS,ISL,ISL,iso_week_date,ISL,352,Iceland,Iceland,Island,ISL,0,Iceland,n,Europe
+IT,ITA,IT,ITA,ITA,iso_week_date,ITA,380,Italy,Italy,Italien,ITA,0,Italy,n,Europe
+KR,KOR,KR,KOR,KOR,iso_week_date,KOR,410,South Korea,South Korea,Südkorea,KOR,0,South Korea,n,Asia
+LT,LTU,LT,LTU,LTU,iso_week_date,LTU,440,Lithuania,Lithuania,Litauen,LTU,0,Lithuania,n,Europe
+LU,LUX,LU,LUX,LUX,iso_week_date,LUX,442,Luxembourg,Luxembourg,Luxemburg,LUX,0,Luxembourg,n,Europe
+LV,LVA,LV,LVA,LVA,iso_week_date,LVA,428,Latvia,Latvia,Lettland,LVA,0,Latvia,n,Europe
+NL,NLD,NL,NLD,NLD,iso_week_date,NLD,528,Netherlands,Netherlands,Niederlande,NLD,0,Netherlands,n,Europe
+NO,NOR,NO,NOR,NOR,iso_week_date,NOR,578,Norway,Norway,Norwegen,NOR,0,Norway,n,Europe
+NZ,NZL,NZ,NZL,NZL_NP,iso_week_date,NZL_NP,554,New Zealand,New Zealand,Neuseeland,NZL,0,New Zealand,s,Oceania
+PL,POL,PL,POL,POL,iso_week_date,POL,616,Poland,Poland,Polen,POL,0,Poland,n,Europe
+PT,PRT,PT,PRT,PRT,iso_week_date,PRT,620,Portugal,Portugal,Portugal,PRT,0,Portugal,n,Europe
+RU,RUS,RU,RUS,RUS,iso_week_date,RUS,643,.,Russia,Russland,RUS,0,Russia,n,Asia
+SE,SWE,SE,SWE,SWE,iso_week_date,SWE,752,Sweden,Sweden,Schweden,SWE,0,Sweden,n,Europe
+SI,SVN,SI,SVN,SVN,iso_week_date,SVN,705,Slovenia,Slovenia,Slowenien,SVN,0,Slovenia,n,Europe
+SK,SVK,SK,SVK,SVK,iso_week_date,SVK,703,Slovakia,Slovakia,Slowakei,SVK,0,Slovakia,n,Europe
+TW,TWN,TW,TWN,TWN,iso_week_date,TWN,158,Taiwan ,Taiwan ,Taiwan,TWN,0,Taiwan ,n,Asia
+US,USA,US,USA,USA,iso_week_date,USA,840,USA,USA,USA,USA,0,USA,n,North America
